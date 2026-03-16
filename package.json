@@ -1,6 +1,6 @@
 {
   "name": "@fozikio/tools-journal",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Session journaling for AI agents — structured reflections that persist across conversations. Plugin for cortex-engine.",
   "type": "module",
   "main": "dist/index.js",
