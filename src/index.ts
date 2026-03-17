@@ -5,7 +5,7 @@
  * Uses the generic CortexStore API (put/get/update/query) on the 'journals' collection.
  */
 
-import type { ToolPlugin } from 'cortex-engine';
+import type { ToolPlugin } from '@fozikio/cortex-engine';
 import { journalWriteTool } from './tools/journal-write.js';
 import { journalReadTool } from './tools/journal-read.js';
 

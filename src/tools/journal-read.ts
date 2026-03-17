@@ -2,7 +2,7 @@
  * journal_read — read journal entries by date or last N days.
  */
 
-import type { ToolDefinition, ToolContext } from 'cortex-engine';
+import type { ToolDefinition, ToolContext } from '@fozikio/cortex-engine';
 
 const COLLECTION = 'journals';
 

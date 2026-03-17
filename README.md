@@ -25,7 +25,7 @@ plugins:
 
 ```typescript
 import journalPlugin from "@fozikio/tools-journal";
-import { CortexEngine } from "cortex-engine";
+import { CortexEngine } from "@fozikio/cortex-engine";
 
 const engine = new CortexEngine({
   plugins: [journalPlugin],

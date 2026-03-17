@@ -2,7 +2,7 @@
  * journal_write — create or update a reflective journal entry by date.
  */
 
-import type { ToolDefinition, ToolContext } from 'cortex-engine';
+import type { ToolDefinition, ToolContext } from '@fozikio/cortex-engine';
 
 const COLLECTION = 'journals';
 
